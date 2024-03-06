@@ -1,3 +1,4 @@
-研究室wifiから
+・研究室wifiからアクセス
 http://shien
-にアクセス
+・fastapi docs
+http://127.0.0.1:8000/docs
